@@ -1,0 +1,22 @@
+module.exports = [
+  { pincode: "560001", area: "Bangalore GPO" },
+  { pincode: "560002", area: "Bangalore City" },
+  { pincode: "560003", area: "Malleswaram" },
+  { pincode: "560004", area: "Basavanagudi" },
+  { pincode: "560005", area: "Fraser Town" },
+  { pincode: "560008", area: "Indiranagar" },
+  { pincode: "560011", area: "Jayanagar" },
+  { pincode: "560017", area: "Vimanapura" },
+  { pincode: "560034", area: "Koramangala" },
+  { pincode: "560037", area: "Marathahalli" },
+  { pincode: "560038", area: "Ulsoor" },
+  { pincode: "560043", area: "Kalyan Nagar" },
+  { pincode: "560048", area: "Mahadevapura" },
+  { pincode: "560066", area: "Whitefield" },
+  { pincode: "560068", area: "Bommanahalli" },
+  { pincode: "560076", area: "Bannerghatta Road" },
+  { pincode: "560078", area: "JP Nagar" },
+  { pincode: "560085", area: "Banashankari" },
+  { pincode: "560095", area: "Koramangala VI Bk" },
+  { pincode: "560100", area: "Electronic City" }
+];
