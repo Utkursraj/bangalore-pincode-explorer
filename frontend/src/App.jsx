@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/pincodes";
+const API_URL = "https://name-bangalore-pincode-explorer-api.onrender.com";
 
 function App() {
   const [search, setSearch] = useState("");
